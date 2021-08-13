@@ -4,7 +4,6 @@ I'm Hafeezul Kareem Shaik. I'm a final year student pursuing Bachelor's degree i
 
 <h3>Present News</h3>
 <ul>
-<li>🧑‍🎓 I’m currently at the end of my college final semester</li>
 <li>🌱 I’m currently learning Data Structures and Algorithms (long way to go...) and honing my Fullstack skills 🧑‍💻</li>
 </ul>
 
