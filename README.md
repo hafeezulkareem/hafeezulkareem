@@ -1,11 +1,6 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <h3>Glad to see you here! 😀</h3>
-I'm Hafeezul Kareem Shaik. I'm a final year student pursuing Bachelor's degree in <b>Computer Science 🎓</b>. I ❤️ to code and learn new stuff in technology 🧑‍💻. I am a Fullstack developer with Frontend experience. And improving it day by day 😀. Finally, I write articles 🗞️ related to technology 🖥️.
-
-<h3>Present News</h3>
-<ul>
-<li>🌱 I’m currently learning Data Structures and Algorithms (long way to go...) and honing my Fullstack skills 🧑‍💻</li>
-</ul>
+I'm Hafeezul Kareem Shaik. I ❤️ to code and learn new stuff in technology 🧑‍💻. I am a Fullstack developer with Frontend experience. And improving it day by day 😀. Finally, I write articles 🗞️ related to technology 🖥️.
 
 <h3>Languages and Tools:</h3>
 <p>
